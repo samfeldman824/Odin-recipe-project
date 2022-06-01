@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+    color: black;   
+}
+
+div {
+    background-color: white;
+    width: 300px;
+}
+
+span {
+    background-color: turquoise;
+
+}
+
+.highlight {
+    background-color: white;
+
+}
